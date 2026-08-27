@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>NAME:       </h3>
-<h3>REGISTER NUMBER:           </h3>
+<h3>NAME: R P Loshini      </h3>
+<h3>REGISTER NUMBER: 212225230155          </h3>
 <H3>AIM:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
